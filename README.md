@@ -1,4 +1,5 @@
-Logistic Regression
+**Breast Cancer Classification with PCA and Logistic Regression**
+
 This Python script demonstrates the classification of breast cancer data using Principal Component Analysis (PCA) for dimensionality reduction and Logistic Regression for classification.
 
 Table of Contents
